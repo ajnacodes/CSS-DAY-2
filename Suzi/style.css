@@ -1,0 +1,30 @@
+.container {
+    width: 800px;
+    align: center;
+    box-shadow: 2px 0px 8px gray;
+    margin: 0 auto;
+}
+
+p {
+    color: #707070;
+}
+
+li {
+    color: #707070;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #DB0038;
+}
+
+h2 {
+    color: #3998A3;
+}
+
+h3 {
+    color: #474747;
+}
