@@ -3,6 +3,7 @@
     align: center;
     box-shadow: 2px 0px 8px gray;
     margin: 0 auto;
+    font-family: 'Happy Monkey';
 }
 
 p {
@@ -11,6 +12,8 @@ p {
 
 li {
     color: #707070;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 header {
@@ -27,4 +30,19 @@ h2 {
 
 h3 {
     color: #474747;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+span {
+    color: #f4b400;
+    size: 25px;
+}
+
+footer {
+    text-align: center;
 }
