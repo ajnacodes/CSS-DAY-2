@@ -1,6 +1,6 @@
 .container {
     width: 800px;
-    align: center;
+    text-align: center;
     box-shadow: 2px 0px 8px gray;
     margin: 0 auto;
     font-family: 'Happy Monkey';
